@@ -1,0 +1,9 @@
+.navbar {
+    background-image: linear-gradient(to top, #c79081 0%, #dfa579 100%);
+    padding: 0 8 0;
+}
+
+.nav-link:hover {
+    background-color: #dfa579;
+}
+
