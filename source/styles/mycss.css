@@ -7,3 +7,8 @@
     background-color: #dfa579;
 }
 
+body {
+    background-image: url('/source/img/background1.jpg');
+    background-position: center;
+    background-size: cover;
+}
